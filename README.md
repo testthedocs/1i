@@ -6,10 +6,13 @@ The team was: [Alec Johnson](https://github.com/MrAlecJohnson), [Ian Ansell](htt
 The purpose was a build something that would highlight to users if they broke some of our simpler style rules. This would allow proof reading to focus more on tone rather than specific rules, and cut down on effort required.
 
 ## Installation
-Currently this is only available to users with citizensadvice.org.uk accounts, or those with the link: https://chrome.google.com/webstore/detail/citizens-advice-style-che/nffbeolahalmiikmlaofbjlaofongaep?utm_source=permalink
+
+Currently this is only available to users with citizensadvice.org.uk accounts,
+or those with the link: https://chrome.google.com/webstore/detail/citizens-advice-style-che/nffbeolahalmiikmlaofbjlaofongaep?utm_source=permalink
 
 ### Using clasp to create your own project
-Git clone to a location and use clasp to initialise that folder as a new project, you can then clasp push to you own apps script project
+
+Git clone to a location and use [clasp](https://developers.google.com/apps-script/guides/clasp) to initialise that folder as a new project, you can then clasp push to you own apps script project
 
 
 ## Example JSON structure
